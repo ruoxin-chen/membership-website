@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/webhook": {
+      "name": "/webhook",
+      "lambdaFunction": "membershipwebsitec452e87a",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
